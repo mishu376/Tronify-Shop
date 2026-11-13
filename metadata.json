@@ -1,0 +1,8 @@
+{
+  "name": "TRONIFY SHOP",
+  "description": "TRONIFY SHOP — Smart Tech, Smarter Life. Bangladesh-based bilingual electronics online store for Smart Watches, Earbuds, Headphones, Smart Gadgets, and Accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "products": [
+    {
+      "id": "prod-watch-apex-ti",
+      "slug": "tronify-apex-ti-amoled-smartwatch",
+      "sku": "TRN-SW-101",
+      "category": "smart-watches",
+      "nameEn": "Tronify Apex Ti AMOLED Smartwatch",
+      "nameBn": "ট্রনিফাই অ্যাপেক্স টিআই অ্যামোলেড স্মার্টওয়াচ",
+      "descriptionEn": "Aerospace-grade matte titanium bezel with 1.43-inch 1000-nit LTPO AMOLED display, dual-band GPS, Bluetooth calling, and 14-day battery endurance built for Dhaka commutes and outdoor training.",
+      "descriptionBn": "অ্যারোস্পেস-গ্রেড ম্যাট টাইটানিয়াম বেজেল, ১.৪৩ ইঞ্চি ১০০০-নিট অ্যামোলেড ডিসপ্লে, ডুয়াল-ব্যান্ড জিপিএস, ব্লুটুথ কলিং এবং ১৪ দিনের ব্যাটারি ব্যাকআপ।",
+      "price": 6490,
+      "originalPrice": 7990,
+      "stock": 18,
+      "image": "/src/assets/images/product_watch_apex_1794580120347.jpg",
+      "featured": true,
+      "specs": [
+        {
+          "labelEn": "Display",
+          "labelBn": "ডিসপ্লে",
+          "value": "1.43\" AMOLED 60Hz"
+        },
+        {
+          "labelEn": "Water Resistance",
+          "labelBn": "ওয়াটার রেজিস্ট্যান্স",
+          "value": "5ATM + IP68"
+        },
+        {
+          "labelEn": "Battery Life",
+          "labelBn": "ব্যাটারি লাইফ",
+          "value": "Up to 14 Days"
+        },
+        {
+          "labelEn": "Calling",
+          "labelBn": "কলিং",
+          "value": "Bluetooth 5.3 HD Call"
+        }
+      ],
+      "warrantyEn": "12 Months Official Replacement Warranty",
+      "warrantyBn": "১২ মাসের অফিসিয়াল রিপ্লেসমেন্ট ওয়ারেন্টি",
+      "createdAt": "2026-11-13T14:35:39.014Z",
+      "updatedAt": "2026-11-13T14:35:39.014Z"
+    },
+    {
+      "id": "prod-watch-pulse-s2",
+      "slug": "tronify-pulse-s2-fitness-watch",
+      "sku": "TRN-SW-102",
+      "category": "smart-watches",
+      "nameEn": "Tronify Pulse S2 Fitness Watch",
+      "nameBn": "ট্রনিফাই পালস এস২ ফিটনেস ওয়াচ",
+      "descriptionEn": "Ultra-slim brushed navy aluminum case with continuous heart-rate, SpO2 tracking, 110+ sports modes, and quick-release midnight sport strap.",
+      "descriptionBn": "আল্ট্রা-স্লিম ব্রাশড নেভি অ্যালুমিনিয়াম কেস, ২৪/৭ হার্ট-রেট ও অক্সিজেন ট্র্যাকিং, ১১০+ স্পোর্টস মোড এবং কমফোর্টেবল স্পোর্ট স্ট্র্যাপ।",
+      "price": 3890,
+      "originalPrice": 4500,
+      "stock": 24,
+      "image": "/src/assets/images/product_watch_pulse_1794580120377.jpg",
+      "featured": true,
+      "specs": [
+        {
+          "labelEn": "Display",
+          "labelBn": "ডিসপ্লে",
+          "value": "1.85\" Curved HD IPS"
+        },
+        {
+          "labelEn": "Sensors",
+          "labelBn": "সেন্সর",
+          "value": "HR, SpO2, Sleep"
+        },
+        {
+          "labelEn": "Battery Life",
+          "labelBn": "ব্যাটারি লাইফ",
+          "value": "10 Days Typical"
+        },
+        {
+          "labelEn": "Compatibility",
+          "labelBn": "কম্প্যাটিবিলিটি",
+          "value": "Android & iOS"
+        }
+      ],
+      "warrantyEn": "6 Months Official Warranty",
+      "warrantyBn": "৬ মাসের অফিসিয়াল ওয়ারেন্টি",
+      "createdAt": "2026-11-13T14:35:39.014Z",
+      "updatedAt": "2026-11-13T14:35:39.014Z"
+    },
+    {
+      "id": "prod-earbuds-sonic-anc",
+      "slug": "tronify-sonic-anc-pro-earbuds",
+      "sku": "TRN-EB-201",
+      "category": "earbuds",
+      "nameEn": "Tronify Sonic ANC Pro Earbuds",
+      "nameBn": "ট্রনিফাই সনিক এএনসি প্রো ইয়ারবাডস",
+      "descriptionEn": "48dB hybrid active noise cancellation with 11mm titanium-coated drivers, 6-mic AI call clarity for busy city traffic, and 42-hour total case runtime.",
+      "descriptionBn": "৪৮ডিবি হাইব্রিড অ্যাক্টিভ নয়েজ ক্যান্সেলেশন, ১১ মিমি টাইটানিয়াম ড্রাইভার, ৬-মাইক এআই কল ক্লিয়ারিটি এবং ৪২ ঘণ্টার মোট প্লেব্যাক।",
+      "price": 3290,
+      "originalPrice": 4200,
+      "stock": 32,
+      "image": "/src/assets/images/product_earbuds_sonic_1794580121222.jpg",
+      "featured": true,
+      "specs": [
+        {
+          "labelEn": "Noise Cancelling",
+          "labelBn": "নয়েজ ক্যান্সেলিং",
+          "value": "48dB Hybrid ANC"
+        },
+        {
+          "labelEn": "Latency",
+          "labelBn": "লেটেন্সি",
+          "value": "45ms Low Gaming Mode"
+        },
+        {
+          "labelEn": "Total Playback",
+          "labelBn": "মোট প্লেব্যাক",
+          "value": "42 Hours (USB-C)"
+        },
+        {
+          "labelEn": "Protection",
+          "labelBn": "সুরক্ষা",
+          "value": "IPX5 Sweat Resistant"
+        }
+      ],
+      "warrantyEn": "6 Months Official Warranty",
+      "warrantyBn": "৬ মাসের অফিসিয়াল ওয়ারেন্টি",
+      "createdAt": "2026-11-13T14:35:39.014Z",
+      "updatedAt": "2026-11-13T14:35:39.014Z"
+    },
+    {
+      "id": "prod-earbuds-airlite",
+      "slug": "tronify-airlite-translucent-buds",
+      "sku": "TRN-EB-202",
+      "category": "earbuds",
+      "nameEn": "Tronify AirLite Translucent Buds",
+      "nameBn": "ট্রনিফাই এয়ারলাইট ট্রান্সলুসেন্ট বাডস",
+      "descriptionEn": "Featherweight smoked-translucent acoustic shell with dual-device multipoint Bluetooth 5.4, balanced punchy bass, and pocket-friendly fast-charge case.",
+      "descriptionBn": "হালকা স্মোকড-ট্রান্সলুসেন্ট ডিজাইন, ডুয়াল-ডিভাইস ব্লুটুথ ৫.৪ কানেক্টিভিটি, ক্রিস্টাল ক্লিয়ার সাউন্ড ও ফাস্ট চার্জিং কেস।",
+      "price": 1890,
+      "originalPrice": 2390,
+      "stock": 40,
+      "image": "/src/assets/images/product_earbuds_lite_1794580121396.jpg",
+      "featured": false,
+      "specs": [
+        {
+          "labelEn": "Bluetooth",
+          "labelBn": "ব্লুটুথ",
+          "value": "v5.4 Multipoint"
+        },
+        {
+          "labelEn": "Driver Size",
+          "labelBn": "ড্রাইভার",
+          "value": "10mm Dynamic"
+        },
+        {
+          "labelEn": "Playtime",
+          "labelBn": "প্লেটাইম",
+          "value": "30 Hours Total"
+        },
+        {
+          "labelEn": "Weight",
+          "labelBn": "ওজন",
+          "value": "3.9g per earbud"
+        }
+      ],
+      "warrantyEn": "6 Months Replacement Warranty",
+      "warrantyBn": "৬ মাসের রিপ্লেসমেন্ট ওয়ারেন্টি",
+      "createdAt": "2026-11-13T14:35:39.014Z",
+      "updatedAt": "2026-11-13T14:35:39.014Z"
+    },
+    {
+      "id": "prod-headphones-studio",
+      "slug": "tronify-studio-pro-anc-headphones",
+      "sku": "TRN-HP-301",
+      "category": "headphones",
+      "nameEn": "Tronify Studio Pro ANC Headphones",
+      "nameBn": "ট্রনিফাই স্টুডিও প্রো এএনসি হেডফোন",
+      "descriptionEn": "Over-ear wireless reference headphones with LDAC Hi-Res Audio, 40mm beryllium drivers, breathable protein-leather memory foam pads, and 60-hour battery.",
+      "descriptionBn": "হাই-রেস এলডিএসি অডিও সাপোর্ট, ৪০ মিমি ড্রাইভার, মেমোরি ফোম ইয়ারকাপ এবং ৬০ ঘণ্টার দীর্ঘস্থায়ী ব্যাটারি ব্যাকআপ।",
+      "price": 7490,
+      "originalPrice": 8990,
+      "stock": 12,
+      "image": "/src/assets/images/product_headphones_studio_1794580121838.jpg",
+      "featured": true,
+      "specs": [
+        {
+          "labelEn": "Audio Codec",
+          "labelBn": "অডিও কোডেক",
+          "value": "LDAC / AAC / SBC"
+        },
+        {
+          "labelEn": "ANC Depth",
+          "labelBn": "এএনসি",
+          "value": "-45dB Adaptive ANC"
+        },
+        {
+          "labelEn": "Battery",
+          "labelBn": "ব্যাটারি",
+          "value": "60 Hours (ANC Off)"
+        },
+        {
+          "labelEn": "Wired Backup",
+          "labelBn": "ওয়্যার্ড",
+          "value": "USB-C & 3.5mm Aux"
+        }
+      ],
+      "warrantyEn": "12 Months Official Warranty",
+      "warrantyBn": "১২ মাসের অফিসিয়াল ওয়ারেন্টি",
+      "createdAt": "2026-11-13T14:35:39.014Z",
+      "updatedAt": "2026-11-13T14:35:39.014Z"
+    },
+    {
+      "id": "prod-gadget-voltcore",
+      "slug": "tronify-voltcore-20000mah-powerbank",
+      "sku": "TRN-SG-401",
+      "category": "smart-gadgets",
+      "nameEn": "Tronify VoltCore 20000mAh MagSafe Power Bank",
+      "nameBn": "ট্রনিফাই ভোল্টকোর ২০০০০mAh ম্যাগসেফ পাওয়ার ব্যাংক",
+      "descriptionEn": "High-density 20,000mAh portable power station with 15W magnetic wireless snap, 65W USB-C PD laptop/phone fast charging, and precision OLED battery readout.",
+      "descriptionBn": "২০,০০০ এমএএইচ ক্যাপাসিটি, ১৫ ওয়াট ম্যাগনেটিক ওয়্যারলেস চার্জিং, ৬৫ ওয়াট ইউএসবি-সি ফাস্ট চার্জিং এবং ওলেড ব্যাটারি ডিসপ্লে।",
+      "price": 2950,
+      "originalPrice": 3500,
+      "stock": 27,
+      "image": "/src/assets/images/product_gadget_powerbank_1794580121801.jpg",
+      "featured": true,
+      "specs": [
+        {
+          "labelEn": "Capacity",
+          "labelBn": "ক্যাপাসিটি",
+          "value": "20,000mAh / 74Wh"
+        },
+        {
+          "labelEn": "Wired Output",
+          "labelBn": "ওয়্যার্ড আউটপুট",
+          "value": "65W USB-C PD 3.0"
+        },
+        {
+          "labelEn": "Wireless",
+          "labelBn": "ওয়্যারলেস",
+          "value": "15W MagSafe Qi2"
+        },
+        {
+          "labelEn": "Display",
+          "labelBn": "ডিসপ্লে",
+          "value": "Real-time OLED %"
+        }
+      ],
+      "warrantyEn": "12 Months Official Warranty",
+      "warrantyBn": "১২ মাসের অফিসিয়াল ওয়ারেন্টি",
+      "createdAt": "2026-11-13T14:35:39.014Z",
+      "updatedAt": "2026-11-13T14:35:39.014Z"
+    },
+    {
+      "id": "prod-gadget-gan100",
+      "slug": "tronify-gan-100w-4port-desktop-hub",
+      "sku": "TRN-SG-402",
+      "category": "smart-gadgets",
+      "nameEn": "Tronify GaN 100W 4-Port Desktop Hub",
+      "nameBn": "ট্রনিফাই গ্যান ১০০ ওয়াট ৪-পোর্ট ডেস্কটপ হাব",
+      "descriptionEn": "Compact Gallium Nitride 4-port USB-C PD fast charger built to power a MacBook Pro, tablet, phone, and earbuds simultaneously with active thermal protection.",
+      "descriptionBn": "একসাথে ল্যাপটপ, ট্যাবলেট, ফোন ও ইয়ারবাড চার্জ করার জন্য কমপ্যাক্ট ১০০ ওয়াট গ্যান ৪-পোর্ট ফাস্ট চার্জার হাব।",
+      "price": 3490,
+      "originalPrice": 4100,
+      "stock": 15,
+      "image": "/src/assets/images/product_gadget_gancharger_1794580122418.jpg",
+      "featured": false,
+      "specs": [
+        {
+          "labelEn": "Total Output",
+          "labelBn": "মোট আউটপুট",
+          "value": "100W GaN III"
+        },
+        {
+          "labelEn": "Ports",
+          "labelBn": "পোর্ট",
+          "value": "4x USB-C PD/PPS"
+        },
+        {
+          "labelEn": "Safety",
+          "labelBn": "সুরক্ষা",
+          "value": "Surge & Thermal Guard"
+        },
+        {
+          "labelEn": "Included",
+          "labelBn": "সাথে থাকছে",
+          "value": "1.5m Braided 100W Cable"
+        }
+      ],
+      "warrantyEn": "18 Months Official Warranty",
+      "warrantyBn": "১৮ মাসের অফিসিয়াল ওয়ারেন্টি",
+      "createdAt": "2026-11-13T14:35:39.014Z",
+      "updatedAt": "2026-11-13T14:35:39.014Z"
+    },
+    {
+      "id": "prod-acc-alloy-dock",
+      "slug": "tronify-alloy-3in1-charging-dock",
+      "sku": "TRN-AC-501",
+      "category": "accessories",
+      "nameEn": "Tronify Alloy 3-in-1 Magnetic Charging Dock",
+      "nameBn": "ট্রনিফাই অ্যালয় ৩-ইন-১ ম্যাগনেটিক চার্জিং ডক",
+      "descriptionEn": "CNC-machined space-gray aluminum charging stand that simultaneously powers your smartphone, smartwatch, and earbuds with a single braided USB-C cable.",
+      "descriptionBn": "সিএনসি-মেশিনড স্পেস-গ্রে অ্যালুমিনিয়াম স্ট্যান্ড যা একসাথে স্মার্টফোন, স্মার্টওয়াচ এবং ইয়ারবাড চার্জ করে।",
+      "price": 2690,
+      "originalPrice": 3200,
+      "stock": 21,
+      "image": "/src/assets/images/product_accessory_dock_1794580122688.jpg",
+      "featured": true,
+      "specs": [
+        {
+          "labelEn": "Material",
+          "labelBn": "ম্যাটেরিয়াল",
+          "value": "CNC Anodized Aluminum"
+        },
+        {
+          "labelEn": "Charging Zones",
+          "labelBn": "চার্জিং জোন",
+          "value": "Phone + Watch + Buds"
+        },
+        {
+          "labelEn": "Max Wireless",
+          "labelBn": "ওয়্যারলেস পাওয়ার",
+          "value": "15W + 5W + 5W"
+        },
+        {
+          "labelEn": "Cable",
+          "labelBn": "ক্যাবল",
+          "value": "Braided USB-C Included"
+        }
+      ],
+      "warrantyEn": "12 Months Official Warranty",
+      "warrantyBn": "১২ মাসের অফিসিয়াল ওয়ারেন্টি",
+      "createdAt": "2026-11-13T14:35:39.014Z",
+      "updatedAt": "2026-11-13T14:35:39.014Z"
+    }
+  ],
+  "orders": [],
+  "customers": [],
+  "settings": {
+    "brandName": "TRONIFY SHOP",
+    "taglineEn": "Smart Tech, Smarter Life.",
+    "taglineBn": "স্মার্ট টেক, স্মার্টার লাইফ।",
+    "logoUrl": "",
+    "announcementEn": "Nationwide Cash on Delivery across all 64 districts of Bangladesh · Free delivery over ৳5,000",
+    "announcementBn": "বাংলাদেশের ৬৪ জেলায় ক্যাশ অন ডেলিভারি · ৳৫,০০০+ অর্ডারে ফ্রি ডেলিভারি",
+    "heroTitleEn": "Precision Electronics Built for Everyday Speed",
+    "heroTitleBn": "দৈনন্দিন গতির জন্য প্রিসিশন ইলেকট্রনিক্স",
+    "heroSubtitleEn": "Authentic smart watches, hybrid ANC earbuds, studio headphones, and GaN power gear — delivered to your door with Cash on Delivery.",
+    "heroSubtitleBn": "অরিজিনাল স্মার্টওয়াচ, হাইব্রিড এএনসি ইয়ারবাড, স্টুডিও হেডফোন এবং গ্যান চার্জার — সারা দেশে ক্যাশ অন ডেলিভারিতে।",
+    "heroCtaEn": "Explore Collection",
+    "heroCtaBn": "কালেকশন দেখুন",
+    "heroImage": "/src/assets/images/hero_tronify_flagship_1794580120244.jpg",
+    "whatsappNumber": "+8801700000000",
+    "facebookPageUrl": "https://www.facebook.com/tronifyshop",
+    "contactEmail": "jamaluddinmishu@gmail.com",
+    "storeAddressEn": "Level 4, Multiplan Center, New Elephant Road, Dhaka 1205",
+    "storeAddressBn": "লেভেল ৪, মাল্টিপ্ল্যান সেন্টার, নিউ এলিফ্যান্ট রোড, ঢাকা ১২০৫",
+    "dhakaDeliveryFee": 60,
+    "outsideDhakaDeliveryFee": 120,
+    "freeDeliveryThreshold": 5000
+  }
+}
